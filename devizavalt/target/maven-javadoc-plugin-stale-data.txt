@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/szalaijo/Documents/NetBeansProjects/tanulo/devizavalt/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/szalaijo/Documents/NetBeansProjects/tanulo/devizavalt/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'devizavalto 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/szalaijo/Documents/NetBeansProjects/tanulo/devizavalt/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'devizavalto 1.0 API'
+hu.mak.ujdevvalt
+'D:/szalaijo/Documents/NetBeansProjects/tanulo/devizavalt/src/main/java/hu/mak/ujdevvalt/CertificatValidator.java'
+'D:/szalaijo/Documents/NetBeansProjects/tanulo/devizavalt/src/main/java/hu/mak/ujdevvalt/DevizaValt.java'
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\src\main\java = 1644486581338
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\allclasses-index.html = 1644490633660
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\allclasses.html = 1644490633678
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\allpackages-index.html = 1644490633666
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\constant-values.html = 1644490633498
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\deprecated-list.html = 1644490633674
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\element-list = 1644490633464
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\help-doc.html = 1644490633689
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\index-all.html = 1644490633652
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\index.html = 1644490633682
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\member-search-index.js = 1644490633645
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\member-search-index.zip = 1644490633647
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\overview-tree.html = 1644490633551
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\package-search-index.js = 1644490633623
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\package-search-index.zip = 1644490633638
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\script.js = 1644490633699
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\search.js = 1644490633705
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\serialized-form.html = 1644490633514
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\stylesheet.css = 1644490633695
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\type-search-index.js = 1644490633640
+D:\szalaijo\Documents\NetBeansProjects\tanulo\devizavalt\target\site\apidocs\type-search-index.zip = 1644490633642
